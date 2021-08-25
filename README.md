@@ -1,6 +1,9 @@
 # Payconiq Assignment - API Automation
+
 ## Author : Vikas Kumar 
 ## Project Overview 
+## Link to Detail Test Documentation
+[Link to Payconiq API Automation Doc](https://docs.google.com/document/d/1bcD6wp04Oa1qDpg8n-DygQKrlZZNbq8zqM3m0H113UM/edit)
 
 
 The project is a maven based the major dependencies are updated in pom.xml as:
