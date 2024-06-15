@@ -1,4 +1,4 @@
-# Payconiq Assignment - API Automation
+# Payconiq Rest - API Automation
 
 ## Author : Vikas Kumar 
 ## Project Overview 
